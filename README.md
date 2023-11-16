@@ -2,7 +2,7 @@
 
 ### 1. Applying The Manager Theorem With Enron
 
-![01ApplyingTheManagerTheoremWithEnron](Resources/01ApplyingTheManagerTheoremWithEnron.jpb)
+![01ApplyingTheManagerTheoremWithEnron](Resources/01ApplyingTheManagerTheoremWithEnron.jpg)
 
 -----
 
@@ -10,10 +10,14 @@
 
 Ung, E. (2024). Manager Theory. https://github.com/ericung/ManagerTheory
 
-![Board Of Directors](https://enroncorp.com/corp/investors/annuals/2000/board)
+[Board Of Directors](https://enroncorp.com/corp/investors/annuals/2000/board)
 
-![Committee](https://enroncorp.com/corp/investors/annuals/2000/committee)
+[Committee](https://enroncorp.com/corp/investors/annuals/2000/committee)
 
-![Enron](https://en.wikipedia.org/wiki/Enron)
+[Enron](https://en.wikipedia.org/wiki/Enron)
 
 *Notice that in the wikipedia page for the employee count, the reference is missing*
+
+*The links from enroncorp could probably change, so I saved a copy it from when I viewed it.*
+
+*Also, I saved a picture of the number of employees is when I looked at the wikipedia page, which could change.*
