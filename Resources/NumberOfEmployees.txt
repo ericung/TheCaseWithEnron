@@ -1,0 +1,185 @@
+Enron Corporate Policy Committee
+	1. KEN LAY
+Chairman, Enron
+	2. JEFF SKILLING
+President and Chief Executive Officer,
+Enron
+	3. CLIFF BAXTER
+Vice Chairman &
+Chief Strategic Officer, Enron
+	4. RICK CAUSEY
+Executive Vice President &
+Chief Accounting Officer, Enron
+	5. DAVE DELAINEY
+Chairman & CEO,
+Enron Energy Services
+	6. JIM DERRICK
+Executive Vice President &
+General Counsel, Enron
+	7. ANDY FASTOW
+Executive Vice President &
+Chief Financial Officer, Enron
+	8. MARK FREVERT
+Chairman & CEO,
+Enron Wholesale Services
+	9. KEVIN HANNON
+Chief Operating Officer,
+Enron Broadband Services
+	10. STAN HORTON
+Chairman & CEO,
+Enron Transportation Services
+	11. STEVE KEAN
+Executive Vice President &
+Chief of Staff, Enron
+	12. LOU PAI
+Chairman & CEO,
+Enron Xcelerator
+	13. KEN RICE
+Chairman & CEO,
+Enron Broadband Services
+	14. JOHN SHERRIFF
+President & CEO,
+Enron Europe
+	15. GREG WHALLEY
+President & COO,
+Enron Wholesale Services
+	16. ROBERT A. BELFER (1, 3)
+New York, New York
+Chairman, Belco Oil & Gas Corp.
+	17. NORMAN P. BLAKE, JR. (3, 4)
+Colorado Springs, Colorado
+Chairman, President and CEO,
+Comdisco, Inc., and Former CEO
+and Secretary General, United States Olympic Committee
+	19. RONNIE C. CHAN (2, 3)
+Hong Kong
+Chairman, Hang Lung Group
+	20. JOHN H. DUNCAN (1*, 4)
+Houston, Texas
+Former Chairman of the Executive Committee of Gulf & Western Industries, Inc.
+	21. WENDY L. GRAMM (2, 5)
+Washington, D.C.
+Director of the Regulatory Studies
+Program of the Mercatus Center at George Mason University
+Former Chairman, U.S. Commodity Futures Trading Commission
+	22. KEN L. HARRISON
+Portland, Oregon
+Former Chairman and CEO, Portland
+General Electric Company
+	23. ROBERT K. JAEDICKE (2*, 4)
+Stanford, California
+Professor of Accounting (Emeritus) and
+Former Dean, Graduate School of Business, Stanford University
+	24. KENNETH L. LAY (1)
+Houston, Texas
+Chairman, Enron Corp.
+	25. CHARLES A. LEMAISTRE (1, 4*)
+San Antonio, Texas
+President Emeritus, University of Texas
+M.D. Anderson Cancer Center
+	26. JOHN MENDELSOHN (2, 5)
+Houston, Texas
+President, University of Texas
+M.D. Anderson Cancer Center
+	27. JEROME J. MEYER (3, 5)
+Wilsonville, Oregon
+Chairman, Tektronix, Inc.
+	28. PAULO V. FERRAZ PEREIRA (2, 3)
+Rio de Janeiro, Brazil
+Executive Vice President of Group Bozano
+Former President and COO, Meridional
+Financial Group, and Former President and CEO,
+State Bank of Rio de Janeiro, Brazil
+	29. FRANK SAVAGE (3, 4)
+Stamford, Connecticut
+Chairman, Alliance Capital Management International
+(a division of Alliance Capital Management L.P.)
+	30. JEFFREY K. SKILLING (1)
+Houston, Texas
+President and CEO, Enron Corp.
+	31. JOHN A. URQUHART (3)
+Fairfield, Connecticut
+Senior Advisor to the Chairman, Enron
+Corp., President, John A. Urquhart
+Associates, and Former Senior Vice
+President of Industrial and Power Systems,
+General Electric Company
+	32. JOHN WAKEHAM (2, 5*)
+London, England
+Former U.K. Secretary of State for Energy
+and Leader of the Houses of Lords and
+Commons
+	33. HERBERT S. WINOKUR, JR. (1, 3*)
+Greenwich, Connecticut
+President, Winokur Holdings, Inc., and
+Former Senior Executive Vice President, Penn Central Corporation
+	34. ROBERT A. BELFER (1, 3)
+New York, New York
+Chairman, Belco Oil & Gas Corp.
+	35. NORMAN P. BLAKE, JR. (3, 4)
+Colorado Springs, Colorado
+Chairman, President and CEO,
+Comdisco, Inc., and Former CEO
+and Secretary General, United States Olympic Committee
+	36. RONNIE C. CHAN (2, 3)
+Hong Kong
+Chairman, Hang Lung Group
+	37. JOHN H. DUNCAN (1*, 4)
+Houston, Texas
+Former Chairman of the Executive Committee of Gulf & Western Industries, Inc.
+	38. WENDY L. GRAMM (2, 5)
+Washington, D.C.
+Director of the Regulatory Studies
+Program of the Mercatus Center at George Mason University
+Former Chairman, U.S. Commodity Futures Trading Commission
+	39. KEN L. HARRISON
+Portland, Oregon
+Former Chairman and CEO, Portland
+General Electric Company
+	40. ROBERT K. JAEDICKE (2*, 4)
+Stanford, California
+Professor of Accounting (Emeritus) and
+Former Dean, Graduate School of Business, Stanford University
+	41. KENNETH L. LAY (1)
+Houston, Texas
+Chairman, Enron Corp.
+	42. CHARLES A. LEMAISTRE (1, 4*)
+San Antonio, Texas
+President Emeritus, University of Texas
+M.D. Anderson Cancer Center
+	43. JOHN MENDELSOHN (2, 5)
+Houston, Texas
+President, University of Texas
+M.D. Anderson Cancer Center
+	44. JEROME J. MEYER (3, 5)
+Wilsonville, Oregon
+Chairman, Tektronix, Inc.
+	45. PAULO V. FERRAZ PEREIRA (2, 3)
+Rio de Janeiro, Brazil
+Executive Vice President of Group Bozano
+Former President and COO, Meridional
+Financial Group, and Former President and CEO,
+State Bank of Rio de Janeiro, Brazil
+	46. FRANK SAVAGE (3, 4)
+Stamford, Connecticut
+Chairman, Alliance Capital Management International
+(a division of Alliance Capital Management L.P.)
+	47. JEFFREY K. SKILLING (1)
+Houston, Texas
+President and CEO, Enron Corp.
+	48. JOHN A. URQUHART (3)
+Fairfield, Connecticut
+Senior Advisor to the Chairman, Enron
+Corp., President, John A. Urquhart
+Associates, and Former Senior Vice
+President of Industrial and Power Systems,
+General Electric Company
+	49. JOHN WAKEHAM (2, 5*)
+London, England
+Former U.K. Secretary of State for Energy
+and Leader of the Houses of Lords and
+Commons
+	50. HERBERT S. WINOKUR, JR. (1, 3*)
+Greenwich, Connecticut
+President, Winokur Holdings, Inc., and
+Former Senior Executive Vice President, Penn Central Corporation
